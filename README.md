@@ -58,7 +58,7 @@
   ##
   
  <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fran-c-oliveira&show_icons=true&theme=material-palenight&locale=pt-br&layout=compact&custom_title=Linguagens mais utilizadas:" alt="fran-c-oliveira" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fran-c-oliveira&show_icons=true&theme=material-palenight&locale=pt-br&layout=compact&include_all_commits=true&include_private=true&custom_title=Linguagens mais utilizadas:" alt="fran-c-oliveira" />
   </p>
 
 <p>&nbsp;
