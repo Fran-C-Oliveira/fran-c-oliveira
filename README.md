@@ -58,5 +58,5 @@
   ##
   
 <p align="center">&nbsp;
-  <img align="center" height=180em src="https://github-readme-stats.vercel.app/api?username=fran-c-oliveira&show_icons=true&theme=material-palenight&locale=pt-br&include_all_commits=true&include_private=true&custom_title=Meus Stats aqui no Github:" alt="fran-c-oliveira" />
+  <img align="center" height=180em src="https://github-readme-stats.vercel.app/api?username=fran-c-oliveira&show_icons=true&theme=material-palenight&locale=pt-br&include_all_commits=true&include_private=true&hide_title=true alt="fran-c-oliveira" />
 </p>
