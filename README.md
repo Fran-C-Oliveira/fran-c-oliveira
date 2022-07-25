@@ -4,7 +4,7 @@
   <h4 align="left">Sou apaixonada por viagens, amo ler e me desafiar a aprender coisas novas.</h4>
   <p><i>Desde que me envolvi com a programação, tenho descoberto e me apaixonado cada vez mais pelo mundo da tecnologia </i> 😊</p>
 
-  <p>🌱 Atualmente estou aprendendo <b>Docker, MySQL, Node.js</b></p>
+  <p>🌱 Atualmente estou aprendendo <b>Typescript e OOP</b></p>
 
   <h4 align="left">
      Você pode se conectar comigo no  
